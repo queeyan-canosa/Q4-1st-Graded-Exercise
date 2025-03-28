@@ -48,6 +48,14 @@ td {
   color: white;
 }
 
+#song {
+  border: 1px solid royalblue;
+  padding: 20px;
+  overflow: scroll;
+  background-color: black;
+  color: white;
+}
+
 
 img {
   object-fit: contain;
